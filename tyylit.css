@@ -1,0 +1,40 @@
+body {
+    background-color: brown;
+    background-image: url('image.png');
+}
+
+h1 {
+    color: rgb(238, 0, 238);
+    font-family: 40px;
+    font-size: 50px;
+}
+.keltainen {
+    color: rgb(245, 0, 0);
+    font-size: 30px;
+}
+a, body {
+    text-align: center;
+}
+h4, dl {
+    color: rgb(0, 195, 255);
+    font-size: 30px;
+}
+h3, h2, h5 {
+    color: rgb(198, 255, 196);
+    font-size: 30px;
+}
+.sininen {
+    font-size: 30px;
+    color: rgb(181, 53, 255);
+}
+.Tuva {
+    color: rgb(12, 253, 173);
+    font-size: 30px;
+}
+nav {
+    color: rgb(0, 134, 134);
+}
+.harrastus {
+    color: rgb(245, 0, 163);
+    font-size: 30px;
+}
